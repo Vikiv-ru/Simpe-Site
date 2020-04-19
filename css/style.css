@@ -111,7 +111,7 @@ body {
     margin-bottom: 35px; }
   .hi__list li {
     padding-left: 40px;
-    background: url("../../img/icons/check_icon.png") 0 0 no-repeat;
+    background: url("../img/icons/check_icon.png") 0 0 no-repeat;
     font-size: 20px;
     margin-bottom: 15px; }
   .hi__list li:last-child {
@@ -175,7 +175,7 @@ body {
   border: 5px solid #445162;
   padding: 10px;
   background-color: #445162;
-  background-image: url("../../img/icons/Layer_2.png"); }
+  background-image: url("../img/icons/Layer_2.png"); }
 
 .column__text {
   padding-left: 10px; }
@@ -326,31 +326,31 @@ body {
     -ms-flex-direction: column;
     flex-direction: column; }
     .contacts__feed__scype {
-      background: url("../../img/contacts/skype_icon.png") 0 0 no-repeat;
+      background: url(../img/contacts/skype_icon.png") 0 0 no-repeat;
       padding: 5px 0 15px 40px;
       margin-bottom: 10px;
       color: #fff;
       display: block; }
     .contacts__feed__icq {
-      background: url("../../img/contacts/icq_icon.png") 0 0 no-repeat;
+      background: url("../img/contacts/icq_icon.png") 0 0 no-repeat;
       padding: 5px 0 15px 40px;
       margin-bottom: 10px;
       color: #fff;
       display: block; }
     .contacts__feed__email {
-      background: url("../../img/contacts/email_icon.png") 0 0 no-repeat;
+      background: url("../img/contacts/email_icon.png") 0 0 no-repeat;
       padding: 5px 0 15px 40px;
       margin-bottom: 10px;
       color: #fff;
       display: block; }
     .contacts__feed__tel {
-      background: url("../../img/contacts/phone_icon.png") 0 0 no-repeat;
+      background: url("../img/contacts/phone_icon.png") 0 0 no-repeat;
       padding: 5px 0 15px 40px;
       margin-bottom: 10px;
       color: #fff;
       display: block; }
     .contacts__feed__social {
-      background: url("../../img/contacts/social_buttons.png") 0 0 no-repeat;
+      background: url("../img/contacts/social_buttons.png") 0 0 no-repeat;
       padding: 140px;
       display: block; }
 
